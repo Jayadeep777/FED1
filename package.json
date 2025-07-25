@@ -1,4 +1,4 @@
-“homepage” : “https://github.com/Jayadeep777/FED.git”
+“homepage” : “https://Jayadeep777.github.io/FED/”
 "scripts": {
   "lint": "eslint .",
   "dev": "vite",
